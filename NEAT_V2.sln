@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NEAT_V2", "NEAT_V2.csproj", "{C18B9881-BFD9-58DB-1ECF-60823D7B98CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C18B9881-BFD9-58DB-1ECF-60823D7B98CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C18B9881-BFD9-58DB-1ECF-60823D7B98CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C18B9881-BFD9-58DB-1ECF-60823D7B98CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C18B9881-BFD9-58DB-1ECF-60823D7B98CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

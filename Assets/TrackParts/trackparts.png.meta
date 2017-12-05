@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 01a3b5d5f49710b4caf45aea563411c4
+timeCreated: 1468253873
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trackparts_0
+    21300002: trackparts_1
+    21300004: trackparts_2
+    21300006: trackparts_3
+    21300008: trackparts_4
+    21300010: trackparts_5
+    21300012: trackparts_6
+    21300014: trackparts_7
+    21300016: trackparts_8
+    21300018: trackparts_9
+    21300020: trackparts_10
+    21300022: trackparts_11
+    21300024: trackparts_12
+    21300026: trackparts_13
+    21300028: trackparts_14
+    21300030: trackparts_15
+    21300032: trackparts_16
+    21300034: trackparts_17
+    21300036: trackparts_18
+    21300038: trackparts_19
+    21300040: trackparts_20
+    21300042: trackparts_21
+    21300044: trackparts_22
+    21300046: trackparts_23
+    21300048: trackparts_24
+    21300050: trackparts_25
+    21300052: trackparts_26
+    21300054: trackparts_27
+    21300056: trackparts_28
+    21300058: trackparts_29
+    21300060: trackparts_30
+    21300062: trackparts_31
+    21300064: trackparts_32
+    21300066: trackparts_33
+    21300068: trackparts_34
+    21300070: trackparts_35
+    21300072: trackparts_36
+    21300074: trackparts_37
+    21300076: trackparts_38
+    21300078: trackparts_39
+    21300080: trackparts_40
+    21300082: trackparts_41
+    21300084: trackparts_42
+    21300086: trackparts_43
+    21300088: trackparts_44
+    21300090: trackparts_45
+    21300092: trackparts_46
+    21300094: trackparts_47
+    21300096: trackparts_48
+    21300098: trackparts_49
+    21300100: trackparts_50
+    21300102: trackparts_51
+    21300104: trackparts_52
+    21300106: trackparts_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: trackparts_0
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1787
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_1
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1787
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_2
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1955
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_3
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1876
+        width: 194
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_4
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1835
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_5
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1835
+        width: 194
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_6
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1865
+        width: 118
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1559
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_9
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_10
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_11
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1559
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_12
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1631
+        width: 112
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_13
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1631
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_14
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1631
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1355
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_18
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_19
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1355
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_20
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1223
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_21
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1223
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1151
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_23
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1151
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_24
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1151
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_25
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1151
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_26
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1151
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_27
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 995
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_28
+      rect:
+        serializedVersion: 2
+        x: 1679
+        y: 971
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_29
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 947
+        width: 193
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_30
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 947
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 947
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_32
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 947
+        width: 112
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_33
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 988
+        width: 194
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 599
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_35
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 599
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_36
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 599
+        width: 194
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_37
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 719
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_38
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 720
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_39
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 757
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_40
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 755
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 275
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_42
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 275
+        width: 314
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_43
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 491
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_44
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 491
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_45
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 527
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_46
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 503
+        width: 242
+        height: 242
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_47
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 287
+        width: 290
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_48
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 47
+        width: 206
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_49
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 47
+        width: 206
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_50
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 299
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_51
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 299
+        width: 194
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 47
+        width: 410
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trackparts_53
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 47
+        width: 410
+        height: 206
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
